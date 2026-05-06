@@ -1,0 +1,12 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.DS_Store
+Thumbs.db
+data/raw/
+Microbiome_Guided_PGPmBCA_Data/
+*.rds
+*.RDS
+results/*.rds
+results/*.RDS
